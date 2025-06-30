@@ -1,0 +1,13 @@
+E:\C#\SIS07Ativ05C#\Lista 05\p2\bin\Debug\02.exe.config
+E:\C#\SIS07Ativ05C#\Lista 05\p2\bin\Debug\02.exe
+E:\C#\SIS07Ativ05C#\Lista 05\p2\bin\Debug\02.pdb
+E:\C#\SIS07Ativ05C#\Lista 05\p2\obj\Debug\02.csprojResolveAssemblyReference.cache
+E:\C#\SIS07Ativ05C#\Lista 05\p2\obj\Debug\02.exe
+E:\C#\SIS07Ativ05C#\Lista 05\p2\obj\Debug\02.pdb
+D:\C#\SIS07Ativ05C#\Lista 05\p2\bin\Debug\02.exe.config
+D:\C#\SIS07Ativ05C#\Lista 05\p2\bin\Debug\02.exe
+D:\C#\SIS07Ativ05C#\Lista 05\p2\bin\Debug\02.pdb
+D:\C#\SIS07Ativ05C#\Lista 05\p2\obj\Debug\02.csproj.AssemblyReference.cache
+D:\C#\SIS07Ativ05C#\Lista 05\p2\obj\Debug\02.csproj.CoreCompileInputs.cache
+D:\C#\SIS07Ativ05C#\Lista 05\p2\obj\Debug\02.exe
+D:\C#\SIS07Ativ05C#\Lista 05\p2\obj\Debug\02.pdb

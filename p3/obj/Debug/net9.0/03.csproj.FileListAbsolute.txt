@@ -1,0 +1,14 @@
+E:\C#\SIS07Ativ05C#\Lista 05\p3\bin\Debug\net9.0\03.exe
+E:\C#\SIS07Ativ05C#\Lista 05\p3\bin\Debug\net9.0\03.deps.json
+E:\C#\SIS07Ativ05C#\Lista 05\p3\bin\Debug\net9.0\03.runtimeconfig.json
+E:\C#\SIS07Ativ05C#\Lista 05\p3\bin\Debug\net9.0\03.dll
+E:\C#\SIS07Ativ05C#\Lista 05\p3\bin\Debug\net9.0\03.pdb
+E:\C#\SIS07Ativ05C#\Lista 05\p3\obj\Debug\net9.0\03.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\SIS07Ativ05C#\Lista 05\p3\obj\Debug\net9.0\03.AssemblyInfoInputs.cache
+E:\C#\SIS07Ativ05C#\Lista 05\p3\obj\Debug\net9.0\03.AssemblyInfo.cs
+E:\C#\SIS07Ativ05C#\Lista 05\p3\obj\Debug\net9.0\03.csproj.CoreCompileInputs.cache
+E:\C#\SIS07Ativ05C#\Lista 05\p3\obj\Debug\net9.0\03.dll
+E:\C#\SIS07Ativ05C#\Lista 05\p3\obj\Debug\net9.0\refint\03.dll
+E:\C#\SIS07Ativ05C#\Lista 05\p3\obj\Debug\net9.0\03.pdb
+E:\C#\SIS07Ativ05C#\Lista 05\p3\obj\Debug\net9.0\03.genruntimeconfig.cache
+E:\C#\SIS07Ativ05C#\Lista 05\p3\obj\Debug\net9.0\ref\03.dll
