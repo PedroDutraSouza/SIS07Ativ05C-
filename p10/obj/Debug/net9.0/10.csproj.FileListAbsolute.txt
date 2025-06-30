@@ -1,0 +1,14 @@
+E:\C#\SIS07Ativ05C#\Lista 05\p10\bin\Debug\net9.0\10.exe
+E:\C#\SIS07Ativ05C#\Lista 05\p10\bin\Debug\net9.0\10.deps.json
+E:\C#\SIS07Ativ05C#\Lista 05\p10\bin\Debug\net9.0\10.runtimeconfig.json
+E:\C#\SIS07Ativ05C#\Lista 05\p10\bin\Debug\net9.0\10.dll
+E:\C#\SIS07Ativ05C#\Lista 05\p10\bin\Debug\net9.0\10.pdb
+E:\C#\SIS07Ativ05C#\Lista 05\p10\obj\Debug\net9.0\10.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\SIS07Ativ05C#\Lista 05\p10\obj\Debug\net9.0\10.AssemblyInfoInputs.cache
+E:\C#\SIS07Ativ05C#\Lista 05\p10\obj\Debug\net9.0\10.AssemblyInfo.cs
+E:\C#\SIS07Ativ05C#\Lista 05\p10\obj\Debug\net9.0\10.csproj.CoreCompileInputs.cache
+E:\C#\SIS07Ativ05C#\Lista 05\p10\obj\Debug\net9.0\10.dll
+E:\C#\SIS07Ativ05C#\Lista 05\p10\obj\Debug\net9.0\refint\10.dll
+E:\C#\SIS07Ativ05C#\Lista 05\p10\obj\Debug\net9.0\10.pdb
+E:\C#\SIS07Ativ05C#\Lista 05\p10\obj\Debug\net9.0\10.genruntimeconfig.cache
+E:\C#\SIS07Ativ05C#\Lista 05\p10\obj\Debug\net9.0\ref\10.dll
